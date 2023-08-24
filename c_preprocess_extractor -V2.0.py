@@ -28,14 +28,15 @@ def Script():
     print("="*70)
     time.sleep(.5)
 
-    CFilePath = input("Drap C File Here : ")
-    asm_file_path = os.path.splitext(CFilePath)[0] + ".s"
-    prepros_file_path = os.path.splitext(CFilePath)[0] + ".i"
-    output_file = os.path.splitext(CFilePath)[0] + ".exe"
 
+
+    CFilePath = input("Drag & Drop C File Here : ")
 
     if CFilePath.endswith('.c'):
         pass
+    elif  CFilePath.endswith('.c"') :
+        CFilePath = CFilePath[1:-1]
+        print(CFilePath)
     else:
         os.system("color 04")
         print("C File Required")
@@ -43,6 +44,10 @@ def Script():
         print("="*70)
         os.system("cls")
         Script()
+
+    asm_file_path = os.path.splitext(CFilePath)[0] + ".s"
+    prepros_file_path = os.path.splitext(CFilePath)[0] + ".i"
+    output_file = os.path.splitext(CFilePath)[0] + ".exe"
 
     try:
         os.system("color 02")
