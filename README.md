@@ -1,5 +1,9 @@
 # c_preprocess_extractor
-python script that Extract preprocess File (.i) and assembly file (.s
+c_preprocess_extractor.py is a Python script to automate the extraction of preprocessed C source code (.i files) and assembly code (.s files) from input C files. This tool streamlines the compilation process while providing developers with valuable insights into their code's preprocessing and assembly stages.
+
+# 🛠️ Technologies Used:
+- Python: Scripting and automation
+- GCC: Compilation, preprocessing, and assembly
 
 # Downlaoding :
 you can download the .exe file from the assets ⬇️
