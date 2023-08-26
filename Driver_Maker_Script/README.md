@@ -1,5 +1,5 @@
 # Driver_Maker_Script
-Driver_Maker_Script.py is a Python script to automate the extraction of Microcontroller Driver Files files . 
+Driver_Maker_Script.py is a Python script to automate the extraction of Microcontroller Driver Files  . 
 - Driver_Cfg.h      `With File Gaurd`
 - Driver_Interfac.h `With File Gaurd`
 - Driver_Private.h `With File Gaurd`
