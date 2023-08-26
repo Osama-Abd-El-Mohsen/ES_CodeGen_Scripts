@@ -13,7 +13,7 @@ or you just   [Click Me]( https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/
 
 # Usage 
 
-![Alt text](myFile8-24-2023_85531_AM-1.gif)
+![Alt text](https://github.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/blob/main/c_preprocess_extractor_python/myFile8-24-2023_85531_AM-1.gif?raw=true)
 
 1- Drag C File into the script
 
