@@ -13,6 +13,8 @@ or you just   [Click Me]( https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/
 
 # Usage 
 
+![Alt text](myFile8-24-2023_85531_AM-1.gif)
+
 1- Drag C File into the script
 
 ![image](https://github.com/Osama-Abd-El-Mohsen/c_preprocess_extractor/assets/62304741/a3092f90-57bc-4fc4-b8cb-19ab46d34638)
@@ -25,5 +27,6 @@ or you just   [Click Me]( https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/
 ![image](https://github.com/Osama-Abd-El-Mohsen/c_preprocess_extractor/assets/62304741/bf85c200-5938-4d0c-a6b7-fe2318c59225)
 
 3- Then you can Exit - see your file output and start the script again
+
 
 ![image](https://github.com/Osama-Abd-El-Mohsen/c_preprocess_extractor/assets/62304741/e1354e67-9f85-4e2a-913c-13663c8ad6f8)
