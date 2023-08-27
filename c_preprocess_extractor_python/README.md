@@ -7,7 +7,7 @@ c_preprocess_extractor.py is a Python script to automate the extraction of prepr
 
 # Downlaoding :
 you can download the .exe file from the assets ⬇️
-[Latest Release](https://github.com/Osama-Abd-El-Mohsen/c_preprocess_extractor/releases/tag/V3.0)
+[Latest Release](https://github.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/releases/download/v3.0/Driver_Maker_Script.rar)
 
 or you just   [Click Me]( https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/c_preprocess_extractor/main/c_preprocess_extractor%20-V2.0.exe)
 
