@@ -5,15 +5,15 @@ c_preprocess_extractor.py is a Python script to automate the extraction of prepr
 - Python: Scripting and automation
 - GCC: Compilation, preprocessing, and assembly
 
-# Downlaoding :
+# Downloading :
 you can download the .exe file from the assets ⬇️
-[Latest Release](https://github.com/Osama-Abd-El-Mohsen/c_preprocess_extractor/releases/tag/V1.0)
+[Latest Release](https://github.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/releases/download/v3.0/Driver_Maker_Script.rar)
 
 or you just   [Click Me]( https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/c_preprocess_extractor/main/c_preprocess_extractor%20-V2.0.exe)
 
 # Usage 
 
-![Alt text](myFile8-24-2023_85531_AM-1.gif)
+![Alt text](https://github.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/blob/main/c_preprocess_extractor_python/myFile8-24-2023_85531_AM-1.gif?raw=true)
 
 1- Drag C File into the script
 
