@@ -3,3 +3,6 @@ myFile8-24-2023_85531_AM.gif
 /gpio
 gpio/
 /dist
+/build
+Driver_Maker_Script/dist/
+/py_2_exe
