@@ -125,6 +125,8 @@ if __name__ == '__main__':
     ctk.AppearanceModeTracker.set_appearance_mode('system')
     ctk.deactivate_automatic_dpi_awareness()
     app = ctk.CTk()
+    icon_path="D:\COTS\Python_Scripts\Driver_Maker_Script\icon.ico"
+    app.iconbitmap(icon_path)
     app.title("Driver_Maker_Script\n ")
     app.geometry('600x548')
     app.resizable(False, False)
