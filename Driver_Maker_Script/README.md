@@ -20,19 +20,19 @@ you can download the .exe file from the assets ⬇️
 
 1- Drag C File into the script
 
-![Alt text](image.png)
+![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image.png)
 
-![Alt text](image-1.png)
+![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-1.png)
 
 
 2- Hold off until the script is done executing.
 
-![Alt text](image-2.png)
+![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-2.png)
 
 # Result
-![Alt text](image-3.png)
+![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-3.png)
 
 |.C File| .h Files |
 |--|--|
-|![Alt text](image-4.png) |![Alt text](image-5.png)|
+|![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-4.png)|![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-5.png)|
 
