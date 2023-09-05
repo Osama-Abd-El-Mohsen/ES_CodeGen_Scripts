@@ -50,7 +50,7 @@ def Script():
             cmd_output.insert(ctk.END, "="*48+'\n')
             state = 2
         if state == 1:
-            Interface_Guard = Foldername + "_Interfac"
+            Interface_Guard = Foldername + "_Interface"
             Config_Guard = Foldername + "_Cfg"
             Program_Guard = Foldername + "_Prog.c"
             Private_Guard = Foldername + "_Private"
@@ -125,8 +125,8 @@ if __name__ == '__main__':
     ctk.AppearanceModeTracker.set_appearance_mode('system')
     ctk.deactivate_automatic_dpi_awareness()
     app = ctk.CTk()
-    icon_path="D:\COTS\Python_Scripts\Driver_Maker_Script\icon.ico"
-    app.iconbitmap(icon_path)
+    icon_path="\icon.ico"
+    app.iconbitmap(os.getcwd()+icon_path)
     app.title("Driver_Maker_Script\n ")
     app.geometry('600x548')
     app.resizable(False, False)
