@@ -6,3 +6,4 @@ gpio/
 /build
 Driver_Maker_Script/dist/
 /py_2_exe
+oldrepo/
