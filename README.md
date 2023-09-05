@@ -24,21 +24,21 @@ This script takes Driver_Empty Folder  and generates corresponding header and so
 
 1- Drag C File into the script
 
-![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/image.png)
+![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image.png)
 
-![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/image-1.png)
+![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-1.png)
 
 
 2- Hold off until the script is done executing.
 
-![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/image-2.png)
+![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-2.png)
 
 # Result
-![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/image-3.png)
+![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-3.png)
 
 |.C File| .h Files |
 |--|--|
-|![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/image-4.png) |![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/image-5.png)|
+|![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-4.png) |![Alt text](https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/main/Driver_Maker_Script/assets/image-5.png)|
 
 
 ## 2 [c_preprocess_extractor](https://github.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/tree/main/c_preprocess_extractor_python#readme) : 
